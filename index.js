@@ -51,3 +51,12 @@ if (errorMessages) {
         default:
             subErrorMessage = t('importer:import_failed');
     }
+
+    "wrong_vehicle_name": "Wrong vehicle name",
+        "wrong_vehicle_serial_number": "Wrong vehicle serial number",
+        "wrong_vin": "Wrong VIN",
+        "wrong_model": "Wrong model",
+        "wrong_brand": "Wrong brand",
+        "wrong_type": "Wrong type",
+        "wrong_device_serial_number": "Wrong device serial number",
+        "wrong_device_type": "Wrong device type",
